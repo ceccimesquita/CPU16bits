@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../16/SP.vhd" \
+"../../../../../16/ULA.vhd" \
+"../../../../../16/fsm.vhd" \
+"../../../../../16/registrador.vhd" \
+"../../../../../16/control_unit.vhd" \
+"../../../../../16/register_file.vhd" \
+"../../../../../16/datapath.vhd" \
+"../../../../../16/rom.vhd" \
+"../../../../../16/ram.vhd" \
+"../../../../../16/cpu.vhd" \
+"../../../../project_final.srcs/sim_1/new/cpu_testbench.vhd" \
+
+# Do not sort compile order
+nosort

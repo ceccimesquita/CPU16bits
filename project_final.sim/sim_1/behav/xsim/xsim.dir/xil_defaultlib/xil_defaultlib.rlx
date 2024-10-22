@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 14 2022
+05:07:14
+/home/ceci/Downloads/16/SP.vhd,1727699592,vhdl,/home/ceci/Downloads/16/datapath.vhd,,,sp,,,,,,,,
+/home/ceci/Downloads/16/ULA.vhd,1727699542,vhdl,/home/ceci/Downloads/16/datapath.vhd,,,ula,,,,,,,,
+/home/ceci/Downloads/16/control_unit.vhd,1727699610,vhdl,/home/ceci/Downloads/16/cpu.vhd,,,control_unit,,,,,,,,
+/home/ceci/Downloads/16/cpu.vhd,1727718500,vhdl,/home/ceci/Downloads/project_final/project_final.srcs/sim_1/new/cpu_testbench.vhd,,,cpu,,,,,,,,
+/home/ceci/Downloads/16/datapath.vhd,1727720940,vhdl,/home/ceci/Downloads/16/cpu.vhd,,,datapath,,,,,,,,
+/home/ceci/Downloads/16/fsm.vhd,1727720244,vhdl,/home/ceci/Downloads/16/control_unit.vhd,,,fsm,,,,,,,,
+/home/ceci/Downloads/16/ram.vhd,1727699662,vhdl,/home/ceci/Downloads/16/cpu.vhd,,,ram,,,,,,,,
+/home/ceci/Downloads/16/register_file.vhd,1727699564,vhdl,/home/ceci/Downloads/16/datapath.vhd,,,register_file,,,,,,,,
+/home/ceci/Downloads/16/registrador.vhd,1727699710,vhdl,/home/ceci/Downloads/16/control_unit.vhd;/home/ceci/Downloads/16/register_file.vhd,,,registrador,,,,,,,,
+/home/ceci/Downloads/16/rom.vhd,1727784644,vhdl,/home/ceci/Downloads/16/cpu.vhd,,,rom,,,,,,,,
+/home/ceci/Downloads/project_final/project_final.srcs/sim_1/new/cpu_testbench.vhd,1727701899,vhdl,,,,cpu_testbench,,,,,,,,
